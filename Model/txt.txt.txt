@@ -1,0 +1,1 @@
+En este directorio van los objetos POJO de las traducimos como entidades que vendrian siendo la relación de tablas o collecciones en su defecto
